@@ -1,16 +1,10 @@
-# Games Tech 101: Group Project
+Insignia
+
+A turn based strategy game made in Python using Pyasge.
+
+Use the mouse to select a character to move, and then use the mouse again to select a target tile to move to or enemy to attack.
+Pressing space will start the enemies turn
+
+A demo video can be found at: https://youtu.be/cyJjkIzlLYI
  
-> Refer to [blackboard](https://blackboard.uwe.ac.uk) for the latest and most
-> up to date version of the game brief.
-
-
-## PyASGE API
-
-The latest [API documentation](https://huxyuk.github.io/pyasge/) for PyASGE is 
-available online via GitHub and provides a detailed overview of PyASGE of the
-classes and how to use them. 
-
-## Tips 
-- Consider programming in pairs if lacking confidence or to help support each other. 
-- If you want audio support, you can consider pyfmodex audio engine. 
-- Kenney.nl, itch.io or OpenGameArt can be used to obtain free assets.
+Made by: Freddie Lane, Sze Ng, Monika Bukovics, Tyler Flemens, Alex Fiddament
